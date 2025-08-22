@@ -3,7 +3,7 @@
 # News App (UIKit + MVVM)
 
 ## Project Description
-The ** News App** fetches and displays the latest news articles from a public API. It supports **offline viewing**, **search**, **bookmarking**, and opens articles in **Safari**. The app follows a **clean MVVM architecture** with decoupled networking, persistence, and UI layers.
+The **News App** fetches and displays the latest news articles from a public API. It supports **offline viewing**, **search**, **bookmarking**, and opens articles in **Safari**. The app follows a **clean MVVM architecture** with decoupled networking, persistence, and UI layers.
 
 ## Features
 

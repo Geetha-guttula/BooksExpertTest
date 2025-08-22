@@ -1,7 +1,6 @@
 # BookExpert Assignment.
-Product list app using SwiftUI.
 
-# iOS Reader App (UIKit + MVVM)
+# iOS News App (UIKit + MVVM)
 
 ## Project Description
 The **iOS Reader App** fetches and displays the latest news articles from a public API. It supports **offline viewing**, **search**, **bookmarking**, and opens articles in **Safari**. The app follows a **clean MVVM architecture** with decoupled networking, persistence, and UI layers.
